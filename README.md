@@ -1,10 +1,10 @@
-Here’s a **README.md** file for your project based on the provided information:
+Here’s the updated **README.md** file reflecting the addition of `02_stable_diffusion.ipynb` and `03_FastSAM.ipynb`:
 
 ---
 
 # Ali3brt's Machine Learning and Deep Learning Projects
 
-Welcome to the **Ali3brt Repository**! This repository contains a collection of projects and notebooks created using Google Colab. These projects cover a range of topics, including Generative Adversarial Networks (GANs), object detection, autoencoders, and more. The repository serves as a comprehensive resource for exploring machine learning and deep learning concepts.
+Welcome to the **Ali3brt Repository**! This repository contains a collection of projects and notebooks created using Google Colab. These projects cover a range of topics, including Generative Adversarial Networks (GANs), object detection, stable diffusion, autoencoders, and more. The repository serves as a comprehensive resource for exploring machine learning and deep learning concepts.
 
 ---
 
@@ -37,12 +37,20 @@ Welcome to the **Ali3brt Repository**! This repository contains a collection of 
 ### **3. Vision and Object Detection**
 - **`01_CLIP_VIT.ipynb`**  
   Exploration of OpenAI's CLIP model using Vision Transformers (ViT) for image-text tasks.
+- **`03_FastSAM.ipynb`**  
+  Implementation of the FastSAM model for fast and efficient image segmentation tasks.
 - **`04_Yolo_Object_Detection_Roboflow.ipynb`**  
   YOLO-based object detection using the Roboflow dataset.
 
 ---
 
-### **4. Text Classification**
+### **4. Stable Diffusion**
+- **`02_stable_diffusion.ipynb`**  
+  Implementation and exploration of Stable Diffusion, a state-of-the-art generative model for image synthesis and editing.
+
+---
+
+### **5. Text Classification**
 - **`ALI_Task0_Text_Classification.ipynb`**  
   Implementation of a text classification model.
 - **`ALI_Task0_Text_Classification.docx`**  
@@ -52,7 +60,7 @@ Welcome to the **Ali3brt Repository**! This repository contains a collection of 
 
 ---
 
-### **5. Trading Strategy Backtesting**
+### **6. Trading Strategy Backtesting**
 - **`Backtesting_Trading_Strategy_using_RSI_&_MA_indicators_with_a_stop_loss_ipynb_txt.ipynb`**  
   Backtesting trading strategies using RSI and Moving Average indicators, including stop-loss functionality.
 
@@ -66,6 +74,7 @@ This repository primarily relies on Python and libraries commonly used in machin
 - Matplotlib
 - Scikit-learn
 - OpenCV
+- HuggingFace Transformers (for Stable Diffusion)
 - Roboflow (for object detection tasks)
 
 For any missing libraries, use the following command:
@@ -100,4 +109,4 @@ For any inquiries or feedback, you can reach out via email or connect through Li
 
 ---
 
-This README provides an overview of the repository while ensuring clarity and accessibility for other users. Let me know if you'd like further adjustments!
+This README has been updated to reflect the addition of `02_stable_diffusion.ipynb` and `03_FastSAM.ipynb`. Let me know if you'd like further adjustments!
